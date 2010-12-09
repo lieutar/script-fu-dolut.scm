@@ -1,0 +1,69 @@
+
+
+=pod
+
+=head1 NAME
+
+00-dolut.scm - utilities for script-fu.
+
+=head1 CONSTANTS
+
+=head2 $CHAR-NULL
+
+=head2 $GIMP?
+
+=head1 FUNCTIONS
+
+=head2 $substring-before-c
+
+=head2 $any->str
+
+=head2 $debug
+
+=head2 $msg
+
+=head2 $alist?
+
+=head2 $copy-list
+
+=head2 $append!
+
+=head2 $curry
+
+=head2 $db-new
+
+=head2 $db?
+
+=head2 $db-set!
+
+=head2 $db-get
+
+=head2 $drop-member
+
+=head2 $freeze-undo-with
+
+=head2 $defcmd
+
+=head2 $define
+
+=head2 ($touple<? a b pred<? pred=? order-spec)
+
+=over 4
+
+=item a, b
+
+Two objects for comparation.
+
+=item pred<?
+
+=item pred=?
+
+=item order-spec
+
+=back
+
+=head2 $sort
+
+
+
+=cut
